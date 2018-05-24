@@ -8,7 +8,7 @@ To generate plugin .jar file use:
 ```bash
 you@/path/to/project/root$ mvn clean package
 ```
-The SolrThings-<version>-SNAPSHOT.jar will be created in the target folder inside project.
+The SolrThings-\<version\>-SNAPSHOT.jar will be created in the target folder inside project.
 
 Install
 -
